@@ -1,6 +1,10 @@
 # 課題・提出 Kanban — 演習6
 
-教材「KanbanアプリでMVVMを学ぶ」の準備〜演習6を実装しました。
+教材「KanbanアプリでMVVMを学ぶ」の準備〜演習6を実装し、授業の課題管理向けにアレンジしました。
+
+公開URL：https://tomaut108-ai.github.io/kanban/
+
+ソースコード：https://github.com/tomaut108-ai/kanban
 
 ## 起動方法
 
